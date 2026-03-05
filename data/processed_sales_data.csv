@@ -1,0 +1,9 @@
+order_id,product,category,region,quantity,price,date,revenue,month,day_of_week
+1001,Laptop,Electronics,North,2,60000,2024-01-05,120000,1,Friday
+1002,Phone,Electronics,West,3,25000,2024-01-06,75000,1,Saturday
+1003,Shoes,Fashion,South,5,3000,2024-01-07,15000,1,Sunday
+1004,T-shirt,Fashion,East,4,1200,2024-01-08,4800,1,Monday
+1005,Laptop,Electronics,North,1,60000,2024-01-09,60000,1,Tuesday
+1006,Phone,Electronics,South,2,25000,2024-01-10,50000,1,Wednesday
+1007,Shoes,Fashion,West,3,3000,2024-01-11,9000,1,Thursday
+1008,T-shirt,Fashion,East,6,1200,2024-01-12,7200,1,Friday
